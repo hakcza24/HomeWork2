@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HomeWork</string>
+    <string name="login_to_your_account">ลงชื่อเข้าสู่บัญชีของคุณ</string>
+    <string name="email">อีเมล</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="login">ลงชื่อเข้าใช้</string>
+    <string name="don_t_have_an_account_register">ยังไม่มีบัญชีผู้ใช้งาน? สมัครเลย</string>
+    <string name="Don">ยังไม่มีบัญชีผู้ใช้งาน? สมัครเลย</string>
+    <string name="ดอน">ยังไม่มีบัญชีผู้ใช้งาน? สมัครเลย</string>
+</resources>
